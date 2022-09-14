@@ -1,0 +1,5 @@
+{
+	"metaDataGqlTags": { "tag": "val" },
+	"metaDataJson": { "json field": true },
+	"dataGqlTags": { "IPFS-Add": "HASH DATA" }
+}
